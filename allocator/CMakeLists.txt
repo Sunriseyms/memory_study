@@ -1,0 +1,1 @@
+add_executable(pre_class_allocator1 pre_class_allocator1.cpp)
